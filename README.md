@@ -1,4 +1,4 @@
-## Tom Hosking
+## [Tom Hosking](http://tomho.sk)
 
 I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on language generation.
 
