@@ -4,12 +4,10 @@ I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on d
 
 ### Projects
 
-[Separator](https://github.com/tomhosking/separator) - Code for the paper "Factorising Meaning and Form for Intent-Preserving Paraphrasing", Tom Hosking & Mirella Lapata (ACL 2021)
+[Separator](https://github.com/tomhosking/separator) - Code for the paper "[Factorising Meaning and Form for Intent-Preserving Paraphrasing](https://arxiv.org/abs/2105.15053)", Tom Hosking & Mirella Lapata (ACL 2021)
 
 [TorchSeq](https://github.com/tomhosking/torchseq) - a sequence modelling framework, built in PyTorch
 
 [McKenzie](https://github.com/tomhosking/mckenzie) - a Slurm scheduler job monitor
 
 My [neural question generation model](https://github.com/bloomsburyai/question-generation) implementation
-
-My UCL Machine Learning [MSc Thesis](http://tomho.sk/Tom_Hosking_MSc_Thesis.pdf).
