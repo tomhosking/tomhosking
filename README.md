@@ -1,8 +1,12 @@
 ## [Tom Hosking](http://tomho.sk)
 
-I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on language generation.
+I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on discrete latent variable models for language generation.
 
 ### Projects
+
+[Separator](https://github.com/tomhosking/separator) - Code for the paper "Factorising Meaning and Form for Intent-Preserving Paraphrasing", Tom Hosking & Mirella Lapata (ACL 2021)
+
+[TorchSeq](https://github.com/tomhosking/torchseq) - a sequence modelling framework, built in PyTorch
 
 [McKenzie](https://github.com/tomhosking/mckenzie) - a Slurm scheduler job monitor
 
