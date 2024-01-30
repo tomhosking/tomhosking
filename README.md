@@ -4,7 +4,7 @@ I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on d
 
 ### Projects
 
-[Human Feedback is not Gold Standard](https://github.com/cohere-ai/human-feedback-paper)
+[Human Feedback is not Gold Standard](https://github.com/cohere-ai/human-feedback-paper) - Tom Hosking, Phil Blunsom & Max Bartolo (ICLR 2024)
 
 [Hercules](https://github.com/tomhosking/hercules) - Code for the paper "[Attributable and Scalable Opinion Summarization](https://aclanthology.org/2023.acl-long.473/)", Tom Hosking, Hao Tang & Mirella Lapata (ACL 2022)
 
