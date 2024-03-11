@@ -4,7 +4,7 @@ I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on d
 
 ### Projects
 
-[HIRO: Hierarchical Indexing for Retrieval-Augmented Opinion Summarization](https://github.com/tomhosking/hiro)
+[HIRO: Hierarchical Indexing for Retrieval-Augmented Opinion Summarization](https://github.com/tomhosking/hiro) - Tom Hosking, Hao Tang & Mirella Lapata
 
 [Human Feedback is not Gold Standard](https://github.com/cohere-ai/human-feedback-paper) - Tom Hosking, Phil Blunsom & Max Bartolo (ICLR 2024)
 
