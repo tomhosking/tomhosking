@@ -8,7 +8,7 @@ I'm a PhD student in NLP at Edinburgh supervised by Mirella Lapata, working on d
 
 [Human Feedback is not Gold Standard](https://github.com/cohere-ai/human-feedback-paper) - Tom Hosking, Phil Blunsom & Max Bartolo (ICLR 2024)
 
-[Hercules](https://github.com/tomhosking/hercules) - Code for the paper "[Attributable and Scalable Opinion Summarization](https://aclanthology.org/2023.acl-long.473/)", Tom Hosking, Hao Tang & Mirella Lapata (ACL 2022)
+[Hercules](https://github.com/tomhosking/hercules) - Code for the paper "[Attributable and Scalable Opinion Summarization](https://aclanthology.org/2023.acl-long.473/)", Tom Hosking, Hao Tang & Mirella Lapata (ACL 2023)
 
 [HRQ-VAE](https://github.com/tomhosking/hrq-vae) - Code for the paper "[Hierarchical Sketch Induction for Paraphrase Generation](https://aclanthology.org/2022.acl-long.178/)", Tom Hosking, Hao Tang & Mirella Lapata (ACL 2022)
 
